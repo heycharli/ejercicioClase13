@@ -1,4 +1,4 @@
 let mensaje = "hola mundo";
 console.log("Nuevo saludo");
-log("arreglando conflictos");
+console.log("arreglando conflictos y el console");
 
